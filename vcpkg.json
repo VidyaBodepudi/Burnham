@@ -1,0 +1,8 @@
+{
+  "name": "burnham",
+  "version-string": "0.1.0",
+  "description": "C++20 genomic liftover and alignment post-processing CLI",
+  "dependencies": [
+    "htslib"
+  ]
+}
